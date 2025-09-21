@@ -1,0 +1,1 @@
+This repository contains code and scripts for producing raw plots and source files (starting from fully annotated Seurat objects) for main and supplementary figure/table content in the manuscript: "Myeloid cells mediate interferon-driven resistance to immunotherapy in advanced renal cell carcinoma". [1]
