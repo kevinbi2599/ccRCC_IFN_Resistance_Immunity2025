@@ -1,1 +1,3 @@
 This repository contains code and scripts for producing raw plots and source files (starting from fully annotated Seurat objects) for main and supplementary figure/table content in the manuscript: "Myeloid cells mediate interferon-driven resistance to immunotherapy in advanced renal cell carcinoma". [1]
+
+1. Kevin Bi, Soki Kashima, Sabrina Y. Camp, Kevin Meli, Eddy Saad, Breanna M. Titchen, Chris Labaki, Ziad Bakouny, Erica M. Pimenta, Jihye Park, Erin Shannon, Jingxin Fu1-2, Sherin Xirenayi, Jack Horst, Lotus Lum, Jeffrey J. Ishizuka, Toni K. Choueiri, David A. Braun, Eliezer M. Van Allen. Myeloid cells mediate interferon-driven resistance to immunotherapy in advanced renal cell carcinoma. Immunity, 2025.
